@@ -1,0 +1,1 @@
+# Demo de la phase 2 du projet ruche connectée , le dossier suivant contient le code finale du projet et l'un des besoins du projet 'La racine CA pour AWS oT' lors de la création de la certif,  voir le demo pour plus d'infos
