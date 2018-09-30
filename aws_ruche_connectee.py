@@ -108,4 +108,4 @@ while True:
     else:
         data = json.dumps(getBalanceValues())
         print(data)
-        myMQTTClient.publish(topic+'balance', data, 0) #publish the payload
+        myMQTTClient.publish(topic+'balance', data, 0) #publish the payload 
